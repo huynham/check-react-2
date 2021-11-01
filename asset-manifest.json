@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "//huynham.github.io/check-react-2/static/css/main.6dea0f05.chunk.css",
-    "main.js": "//huynham.github.io/check-react-2/static/js/main.a5639534.chunk.js",
-    "main.js.map": "//huynham.github.io/check-react-2/static/js/main.a5639534.chunk.js.map",
-    "runtime-main.js": "//huynham.github.io/check-react-2/static/js/runtime-main.0ffe1a33.js",
-    "runtime-main.js.map": "//huynham.github.io/check-react-2/static/js/runtime-main.0ffe1a33.js.map",
-    "static/js/2.dae8b705.chunk.js": "//huynham.github.io/check-react-2/static/js/2.dae8b705.chunk.js",
-    "static/js/2.dae8b705.chunk.js.map": "//huynham.github.io/check-react-2/static/js/2.dae8b705.chunk.js.map",
-    "static/js/3.f6a55be6.chunk.js": "//huynham.github.io/check-react-2/static/js/3.f6a55be6.chunk.js",
-    "static/js/3.f6a55be6.chunk.js.map": "//huynham.github.io/check-react-2/static/js/3.f6a55be6.chunk.js.map",
-    "index.html": "//huynham.github.io/check-react-2/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "//huynham.github.io/check-react-2/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.dae8b705.chunk.js.LICENSE.txt": "//huynham.github.io/check-react-2/static/js/2.dae8b705.chunk.js.LICENSE.txt"
+    "main.css": "/check-react-2/static/css/main.7c869bf9.chunk.css",
+    "main.js": "/check-react-2/static/js/main.e30001c8.chunk.js",
+    "main.js.map": "/check-react-2/static/js/main.e30001c8.chunk.js.map",
+    "runtime-main.js": "/check-react-2/static/js/runtime-main.31f1fbed.js",
+    "runtime-main.js.map": "/check-react-2/static/js/runtime-main.31f1fbed.js.map",
+    "static/js/2.4e4f0d96.chunk.js": "/check-react-2/static/js/2.4e4f0d96.chunk.js",
+    "static/js/2.4e4f0d96.chunk.js.map": "/check-react-2/static/js/2.4e4f0d96.chunk.js.map",
+    "static/js/3.b7ea90f1.chunk.js": "/check-react-2/static/js/3.b7ea90f1.chunk.js",
+    "static/js/3.b7ea90f1.chunk.js.map": "/check-react-2/static/js/3.b7ea90f1.chunk.js.map",
+    "index.html": "/check-react-2/index.html",
+    "static/css/main.7c869bf9.chunk.css.map": "/check-react-2/static/css/main.7c869bf9.chunk.css.map",
+    "static/js/2.4e4f0d96.chunk.js.LICENSE.txt": "/check-react-2/static/js/2.4e4f0d96.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ffe1a33.js",
-    "static/js/2.dae8b705.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.a5639534.chunk.js"
+    "static/js/runtime-main.31f1fbed.js",
+    "static/js/2.4e4f0d96.chunk.js",
+    "static/css/main.7c869bf9.chunk.css",
+    "static/js/main.e30001c8.chunk.js"
   ]
 }
